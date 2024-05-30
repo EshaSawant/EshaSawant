@@ -2,5 +2,5 @@
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 CS at CSUMB
 - 📫 How to reach me:
-- 1. www.linkedin.com/in/esha-sawant-49ab13222
+- 1. https://www.linkedin.com/in/eshasawant21/
 - 2. eshasawant02@gmail.com
