@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Esha Sawant
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 CS at CSUMB
+- 🌱 CS from CSUMB
+- Software Engineer at 63 Moons
 - 📫 How to reach me:
 - 1. https://www.linkedin.com/in/eshasawant21/
 - 2. eshasawant02@gmail.com
